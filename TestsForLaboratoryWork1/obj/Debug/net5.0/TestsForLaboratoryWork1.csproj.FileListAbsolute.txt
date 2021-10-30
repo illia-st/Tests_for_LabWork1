@@ -1,5 +1,0 @@
-D:\programming\laboratory works\Laboratory_work1\TestsForLaboratoryWork1\obj\Debug\net5.0\TestsForLaboratoryWork1.csproj.AssemblyReference.cache
-D:\programming\laboratory works\Laboratory_work1\TestsForLaboratoryWork1\obj\Debug\net5.0\TestsForLaboratoryWork1.GeneratedMSBuildEditorConfig.editorconfig
-D:\programming\laboratory works\Laboratory_work1\TestsForLaboratoryWork1\obj\Debug\net5.0\TestsForLaboratoryWork1.AssemblyInfoInputs.cache
-D:\programming\laboratory works\Laboratory_work1\TestsForLaboratoryWork1\obj\Debug\net5.0\TestsForLaboratoryWork1.AssemblyInfo.cs
-D:\programming\laboratory works\Laboratory_work1\TestsForLaboratoryWork1\obj\Debug\net5.0\TestsForLaboratoryWork1.csproj.CoreCompileInputs.cache
